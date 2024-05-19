@@ -452,7 +452,7 @@
   {
     "id_iptv": "244",
     "nama_channel": "Sky Sports Main Event",
-    "tagline": "Sky Sports",
+    "tagline": "Sky Sports Main Event",
     "jenis": "dash-clearkey",
     "url_iptv": "https://linear001-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd",
     "gbr_base64": "data:image/png;base64,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",
@@ -463,7 +463,7 @@
     "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
     "pinned": "f",
     "url_license": "00050559cd31897cd28ef1cad1857606:32203d3d424a70258a9f676316681bea",
-    "namespace": "Sky Sports",
+    "namespace": "Sky Sports Main Event",
     "header_license": "{\"x-data\":\"none\"}",
     "platform": "[web]",
     "nama_event": "English Premier League",
