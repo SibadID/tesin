@@ -1,9 +1,11 @@
 [
-  {
+{
     "nama_channel": "Sport Olahraga 4",
     "nama_event": "BRI LIGA 1",
     "player_1": "Bali United",
     "player_2": "Borneo FC",
+    "logo_1": "https://img0.aiscore.com/football/team/616bf242a532f72e970648f2ead423cf.png!w30",
+    "logo_2": "https://img0.aiscore.com/football/team/cd3683db19fcf1166a79a2ddc8261faa.png!w30",
     "jadwal_event": "2024-05-25 19:00:00+07",
     "jadwal_stop": "2024-05-25 21:15:00+07",
 }
