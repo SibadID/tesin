@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:2
+#EXTINF:65535,
+http://xtv.ooo:8080/owais1/12345/350972
+http://xtv.ooo:8080/MansoorWapda/258741/351023
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
+http://xtv.ooo:8080/RiyazMPT/433833/351023
+https://s.id/rcti_play_shareext-ts
